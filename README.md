@@ -2,54 +2,40 @@
 
 **Research in Noodles & Food**
 
-Nature Noodle is an independent, online-only, open-access scholarly journal published by Nature Noodle Press. The journal publishes original research, reviews, methods, short research communications, and scholarly perspectives concerning noodles and related foods.
+Nature Noodle is an independent, online-only, open-access scholarly journal published by Nature Noodle Press.
 
-## Journal information
+## Current issue
 
-- **Title:** Nature Noodle
-- **Publisher:** Nature Noodle Press
-- **Format:** Online only
-- **Publication frequency:** Irregular
-- **First issue:** Volume 1, Issue 1, October 2026
-- **Online ISSN:** Application pending
-- **Open-access license:** Creative Commons Attribution 4.0 International (CC BY 4.0)
-- **Author fees:** None
-- **Editorial contact:** naturenoodle.editor@yahoo.com
+Volume 1, Issue 1, October 2026 contains two bilingual articles:
 
-## Aims and scope
+1. `NN-2026-001` - Baking soda concentration and cooking time for ramen-style transformation of spaghetti.
+2. `NN-2026-002` - Dimensional changes, time course, and Chinese-noodle applications of five commercial pasta types.
 
-Nature Noodle serves researchers, educators, practitioners, and readers interested in the scientific, technical, nutritional, environmental, historical, and cultural dimensions of noodles and related foods.
+## Website and PDF files
 
-## Website
+- `index.html` - journal website
+- `cover.png` - current issue cover
+- `Nature_Noodle_Vol1_Issue1_Complete.pdf` - complete 20-page issue
+- `Nature_Noodle_Article_NN-2026-001_Bilingual.pdf` - Article 1
+- `Nature_Noodle_Article_NN-2026-002_Bilingual.pdf` - Article 2
 
-This repository hosts the official Nature Noodle journal website through GitHub Pages.
+All files must remain in the repository root so the relative links in `index.html` work.
 
-After GitHub Pages is enabled, the expected project-site address is:
+## GitHub Pages
+
+Publish from `main` and `/(root)`. Expected URL:
 
 `https://naturenoodle.github.io/Nature-Noodle/`
 
-## Publishing the website
+## Contact
 
-1. Upload `index.html` to the root of the repository.
-2. Open the repository's **Settings**.
-3. Select **Pages** under **Code and automation**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and the `/ (root)` folder.
-6. Click **Save**.
-7. Wait several minutes for deployment, then open the published URL shown in the Pages settings.
+naturenoodle.editor@yahoo.com
 
-## Updating the site
+## Issue pagination
 
-Edit `index.html`, commit the change to the `main` branch, and GitHub Pages will redeploy the website automatically.
+- Cover: page 1
+- Table of contents: page 2
+- Article NN-2026-001: pages 3-10
+- Article NN-2026-002: pages 11-20
 
-## Open access and fees
-
-Nature Noodle provides immediate free access to published articles. Authors retain copyright, and articles are published under CC BY 4.0. The journal charges no submission fee, article processing charge, publication fee, or reader access fee.
-
-## Independence notice
-
-Nature Noodle and Nature Noodle Press are independent and are not affiliated with, endorsed by, sponsored by, or otherwise connected to Nature Portfolio, Springer Nature, or any affiliated publishing organization. All third-party names and trademarks are the property of their respective owners.
-
-## License
-
-Website text and original journal content are made available under CC BY 4.0 unless otherwise stated. Software and website code may be reused with attribution.
+Individual article PDFs preserve the same page numbers as the complete issue.
