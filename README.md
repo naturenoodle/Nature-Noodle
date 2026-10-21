@@ -1,6 +1,6 @@
 # Nature Noodle
 
-Professional open-access journal website and Volume 1, Issue 1 files.
+Professional open-access journal website and expanded Volume 1, Issue 1.
 
 Publisher: Nature Noodle Press, Georgia, United States.
 
